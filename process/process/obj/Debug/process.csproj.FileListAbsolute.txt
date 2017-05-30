@@ -1,0 +1,18 @@
+c:\users\кораблеви\documents\visual studio 2015\Projects\process\process\bin\Debug\process.exe.config
+c:\users\кораблеви\documents\visual studio 2015\Projects\process\process\bin\Debug\process.exe
+c:\users\кораблеви\documents\visual studio 2015\Projects\process\process\bin\Debug\process.pdb
+c:\users\кораблеви\documents\visual studio 2015\Projects\process\process\obj\Debug\process.csprojResolveAssemblyReference.cache
+c:\users\кораблеви\documents\visual studio 2015\Projects\process\process\obj\Debug\process.frmFormProc.resources
+c:\users\кораблеви\documents\visual studio 2015\Projects\process\process\obj\Debug\process.Properties.Resources.resources
+c:\users\кораблеви\documents\visual studio 2015\Projects\process\process\obj\Debug\process.csproj.GenerateResource.Cache
+c:\users\кораблеви\documents\visual studio 2015\Projects\process\process\obj\Debug\process.exe
+c:\users\кораблеви\documents\visual studio 2015\Projects\process\process\obj\Debug\process.pdb
+C:\Users\V\Downloads\process\process\process\bin\Debug\process.exe.config
+C:\Users\V\Downloads\process\process\process\obj\Debug\process.exe
+C:\Users\V\Downloads\process\process\process\obj\Debug\process.pdb
+C:\Users\V\Downloads\process\process\process\bin\Debug\process.exe
+C:\Users\V\Downloads\process\process\process\bin\Debug\process.pdb
+C:\Users\V\Downloads\process\process\process\obj\Debug\process.csprojResolveAssemblyReference.cache
+C:\Users\V\Downloads\process\process\process\obj\Debug\process.frmFormProc.resources
+C:\Users\V\Downloads\process\process\process\obj\Debug\process.Properties.Resources.resources
+C:\Users\V\Downloads\process\process\process\obj\Debug\process.csproj.GenerateResource.Cache
